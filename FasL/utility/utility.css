@@ -1,0 +1,29 @@
+/* 1) Lobster */
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+/* 2) Baloo Bhaina 2 */
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2:wght@500&display=swap');
+
+/* 3) Allerta */
+@import url('https://fonts.googleapis.com/css2?family=Allerta&display=swap');
+
+/* 4) Noto Sans Traditional Chinese  bold */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap');
+
+/* 5) Noto Sans Traditional Chinese  */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC&display=swap');
+
+/* Ubuntu */
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+/* Maven Pro */
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+:root {
+    --font1: 'Lobster', cursive; 
+    --font2: 'Baloo Bhaina 2', cursive;
+    --font3: 'Allerta', sans-serif;
+    --font4: 'Noto Sans TC', sans-serif;
+    --font5: 'Noto Sans TC', sans-serif;
+    --font6: 'Ubuntu', sans-serif;
+    --font7: 'Maven Pro', sans-serif;
+}
