@@ -1,0 +1,95 @@
+/* .carousel-inner{
+    height: 40vw;
+}
+
+.item, img{
+    height: 100% !important;
+    width:  100% !important;
+} */
+
+.logo {
+    font-family: var(--font6);
+}
+
+.logo a {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo a h1 {
+    font-size: 35px;
+    color: crimson;
+    margin-left: 5px;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+
+.logo span {
+    font-family: var(--font4);
+    font-size: 10px;
+    color: white;
+    margin-left: 5px;
+    margin-right: 30px;
+    /* position: absolute;
+    bottom: 1px; */
+
+}
+
+.tabs {
+    font-family: var(--font3);
+    font-size: 19px;
+    margin: 5px;
+}
+
+.tabs li {
+    margin-left: 9px;
+}
+
+.al-txt {
+    font-family: var(--font5);
+}
+
+.container .entry-text h1 {
+    font-family: var(--font5);
+    color: rgba(0, 0, 0, 0.711);
+}
+
+.container .entry-text p {
+    font-family: var(--font3);
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.711);
+}
+.nav-icons .bi {
+    color: white;
+    font-size: 21px;
+}
+
+.container .partners img {
+    height: 40vw;
+    width: 80vw;
+}
+
+.foot {
+    background-color: cornsilk;
+}
+
+.social-media ul li a i{
+    color: black;
+    font-size: 23px;
+}
+
+.footer-info h1{
+    font-family: var(--font8);    
+}
+
+.cards h2 {
+    font-family: var(--font3);
+}
+
+.cards p {
+    font-family: var(--font3);
+}
+
+.cards button {
+    font-family: var(--font3);
+}
