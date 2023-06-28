@@ -22,6 +22,9 @@
 /* Diphylleia */
 @import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
 
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
 :root{
     --font1: 'Bacasime Antique', serif;
     --font2: 'Nanum Gothic', sans-serif;
@@ -31,4 +34,5 @@
     --font6: 'Lobster', cursive; 
     --font7:  'Oswald', sans-serif;
     --font8: 'Diphylleia', serif;
+    --font8: 'Poppins', sans-serif;
 }
