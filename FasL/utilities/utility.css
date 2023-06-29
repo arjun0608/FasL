@@ -1,38 +1,37 @@
 /* Bacasime Antique  */
-@import url('https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Bacasime+Antique&display=swap");
 
 /* Nanum Gothic  */
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap");
 
 /* Maven Pro  */
-@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap");
 
 /* Ysabeau SC  */
-@import url('https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Ysabeau+SC:wght@300&display=swap");
 
 /* Julius Sans One  */
-@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap");
 
 /* Lobster */
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
 
 /* Oswald */
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap");
 
 /* Diphylleia */
-@import url('https://fonts.googleapis.com/css2?family=Diphylleia&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Diphylleia&display=swap");
 
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
-:root{
-    --font1: 'Bacasime Antique', serif;
-    --font2: 'Nanum Gothic', sans-serif;
-    --font3: 'Maven Pro', sans-serif;
-    --font4: 'Ysabeau SC', sans-serif;
-    --font5: 'Julius Sans One', sans-serif;
-    --font6: 'Lobster', cursive; 
-    --font7:  'Oswald', sans-serif;
-    --font8: 'Diphylleia', serif;
-    --font8: 'Poppins', sans-serif;
+:root {
+  --font1: "Bacasime Antique", serif;
+  --font2: "Nanum Gothic", sans-serif;
+  --font3: "Maven Pro", sans-serif;
+  --font4: "Ysabeau SC", sans-serif;
+  --font5: "Julius Sans One", sans-serif;
+  --font6: "Lobster", cursive;
+  --font7: "Oswald", sans-serif;
+  --font8: "Diphylleia", serif;
+  --font8: "Poppins", sans-serif;
 }
